@@ -10,10 +10,12 @@ environment:
   sdk: ^3.6.0
 
 dependencies:
+  flutter_dropzone: ^4.0.0
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  csv: ^5.0.0
 
 dev_dependencies:
   flutter_test:
