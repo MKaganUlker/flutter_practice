@@ -3,4 +3,5 @@ class SampleItem {
   const SampleItem(this.id);
 
   final String id;
+  //final String ass;
 }
